@@ -12,5 +12,5 @@ The argument parsing by the [CLI11](https://github.com/CLIUtils/CLI11).
 
 ## tools list
 ### [simulate-mutation-sequence](./tutorial/simulate-mutation-sequence.md)
-
 ### [cmp-dist-RabbitKSSD-bindash](./tutorial/cmp-dist-RabbitKSSD-bindash.md)
+### [cal-sse-Jaccard](./tutorial/cal-sse-Jaccard.md)
